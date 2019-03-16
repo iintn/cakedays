@@ -1,7 +1,7 @@
 # cakedays
 
 
-Data from [pushshift](https://files.pushshift.io/reddit/) (69M Reddit Accounts). Graphed in python using only pillow.
+Data from [pushshift](https://files.pushshift.io/reddit/) (69M_reddit_accounts.csv.gz). Graphed in python using only pillow.
 After downloading the archive, extract it and place it in the same directory as the scripts. Then run gen_data.py. To generate the image, run cake.py.
 
 
